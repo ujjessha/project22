@@ -12,7 +12,7 @@ function preload(){
 	helicopterIMG=loadImage("helicopter.png")
 	packageIMG=loadImage("package.png")
 	
-}
+
 
 
 function setup() {
