@@ -7,7 +7,7 @@ const Body = Matter.Body;
 const Render = Matter.Render;
 
 
-function preload(){}
+function preload(){
 
 	helicopterIMG=loadImage("helicopter.png")
 	packageIMG=loadImage("package.png")
